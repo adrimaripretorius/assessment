@@ -1,0 +1,15 @@
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\bin\Debug\OutsuranceAssessmentUnitTests.dll
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\bin\Debug\OutsuranceAssessmentUnitTests.pdb
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\bin\Debug\OutsuranceAssessment.exe
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\bin\Debug\OutsuranceAssessment.pdb
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\bin\Debug\OutsuranceAssessment.exe.config
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\obj\Debug\OutsuranceAssessmentUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\obj\Debug\OutsuranceAssessmentUnitTests.dll
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessmentUnitTests\obj\Debug\OutsuranceAssessmentUnitTests.pdb

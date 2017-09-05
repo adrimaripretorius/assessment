@@ -1,0 +1,6 @@
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessment\bin\Debug\OutsuranceAssessment.exe.config
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessment\bin\Debug\OutsuranceAssessment.exe
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessment\bin\Debug\OutsuranceAssessment.pdb
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessment\obj\Debug\OutsuranceAssessment.csprojResolveAssemblyReference.cache
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessment\obj\Debug\OutsuranceAssessment.exe
+C:\Users\Adri-MarivanderStoep\Documents\Persoonlik\CV\Asse3ssments\OutsuranceAssessment\OutsuranceAssessment\obj\Debug\OutsuranceAssessment.pdb
